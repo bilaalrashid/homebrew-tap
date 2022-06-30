@@ -14,7 +14,7 @@ Or
 
 | Name | Description | Installation command |
 |------|-------------|----------------------|
-| [gitignore](https://github.com/bilaalrashid/gitignore/) | Effortlessly generate .gitignore files from the command line using the GitHub templates. | `brew install gitignore` |
+| [gitignore](https://github.com/bilaalrashid/gitignore/) | Effortlessly generate .gitignore files from the command line | `brew install gitignore` |
 
 ## Documentation
 
